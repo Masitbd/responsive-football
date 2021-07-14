@@ -1,0 +1,31 @@
+/* heading section */
+
+/* Player information section */
+
+.container{
+ 
+ 
+}
+.main-header{
+  padding-top: 50%;
+  color: #FFFFFF;
+  font-family: 'poppins', Courier, monospace;
+  font-style: 700;
+  text-justify: left;
+  
+}
+.player-display{
+  display: grid;
+  grid-template-columns:repeat(2, 1fr);
+  background-color: #2D25A0;
+  justify-items: center;
+  justify-content: center;
+  width: 1440px;
+  height: 677px;
+  margin-left: 10%;
+}
+.player-information img{
+  width: 556.01px;
+  height: 438px;
+  
+}
